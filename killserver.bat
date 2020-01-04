@@ -1,0 +1,1 @@
+TASKKILL /im manage.exe /F

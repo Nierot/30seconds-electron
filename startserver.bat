@@ -1,0 +1,1 @@
+START C:\Users\Niels\Desktop\electron\seconds\dist\manage\manage.exe runserver
